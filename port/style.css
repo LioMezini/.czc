@@ -28,6 +28,12 @@ img{
     width: 450px;
     height: 400px;
 }
+
+.imgl{
+    width: 200px;
+    height: 200px;
+}
+
 /* section 1 */
 .section-1{
     padding-top: 40vh;
